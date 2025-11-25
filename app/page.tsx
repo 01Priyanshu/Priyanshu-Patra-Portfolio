@@ -443,7 +443,7 @@ export default function Home() {
                       <div className="relative">
                         <div className="absolute -inset-4 rounded-full bg-gradient-to-r from-primary via-accent to-secondary opacity-30 blur-lg animate-pulse-slow"></div>
                         <Image
-                          src={"/placeholder.svg?height=400&width=400"}
+                          src={"/images/profile.jpg"}
                           width={400}
                           height={400}
                           alt="Profile"
